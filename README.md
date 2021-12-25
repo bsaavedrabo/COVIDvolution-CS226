@@ -21,7 +21,7 @@ Throughout this project, you have likely used outside resources. Reference all i
 The objective is to observe SARS-CoV-2 mutations from Dec 2019.
 
 **Sources**: Which assignments or code will you base your project on?
-  We are going to base our project on A07: It's in Your Genes and 
+  We are going to base our project on A07: It's in Your Genes and T09 Oh The Places You Will Go 
 
 
 **CRC Card**:
