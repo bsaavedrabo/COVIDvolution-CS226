@@ -7,7 +7,7 @@
 
 **References**: 
 
-We were inspired by two assignments (A07 and T09) from the class CSC 226: Software Implementation and Design at Berea College.
+We were inspired by two assignments (A07 and T09) from the class CSC 226: Software Implementation and Design at Berea College. 
 
 **SARS-COVID-19 Genome Analyzer**
 
@@ -64,7 +64,6 @@ in the DNA level, also in a future opportunity, we can use genomic databases fro
 We have learned through this program where to get the right resources and we plan
 to use them in the future. 
 
-Thank you!
-
-Belen and Daize
+**Acknowledgements**:
+Thank you to Dr. Ronald Rosen, Professor of Biology, who guided us in the design of this project. Liberty Mupotsa, Student Developer, who helped us in the technical side of the project. 
 #####
