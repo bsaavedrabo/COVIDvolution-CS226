@@ -3,10 +3,11 @@
 **Term**: Fall 2021
 
 **Author(s)**: Daize Njounkeng and Maria Belen Saavedra Rios
+---
 
 **References**: 
+
 We were inspired by two assignments (A07 and T09) from the class CSC 226: Software Implementation and Design at Berea College.
----
 
 **SARS-COVID-19 Genome Analyzer**
 
