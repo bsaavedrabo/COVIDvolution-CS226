@@ -64,6 +64,7 @@ in the DNA level, also in a future opportunity, we can use genomic databases fro
 We have learned through this program where to get the right resources and we plan
 to use them in the future. 
 
-**Acknowledgements**:
+### Acknowledgements
+
 Thank you to Dr. Ronald Rosen, Professor of Biology, who guided us in the design of this project. Liberty Mupotsa, Student Developer, who helped us in the technical side of the project. 
 #####
