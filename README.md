@@ -8,7 +8,7 @@
 **References**: 
 
 We were inspired by two assignments (A07 and T09) from the class CSC 226: Software Implementation and Design at Berea College. 
-All the genomic sequences were obtained at the National Center for Biotechnology Information Search database.
+All the genomic sequences were obtained at the National Center for Biotechnology Information Search database. https://www.ncbi.nlm.nih.gov/
 
 **SARS-COVID-19 Genome Analyzer**
 
